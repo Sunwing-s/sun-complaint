@@ -42,7 +42,7 @@ Into [inventoryname]/html/js/app.js around row 400 you will see statements that 
             );
 
 
-# Item too add. Using pictures from mk-items myself, so you can use that if you want # Drop items in [inventoryname]/html/images
+# Item to add. Using pictures from mk-items myself, so you can use that if you want # Drop items in [inventoryname]/html/images
 ['complaint'] 						 = {['name'] = 'complaint', 			 	  	  	['label'] = 'Police Complaint', 	['weight'] = 200, 		['type'] = 'item', 		['image'] = 'complaint.png', 				['unique'] = true, 	['useable'] = false, 	['shouldClose'] = false,   ['combinable'] = nil,   ['description'] = ''},
 
 From Sunwing
